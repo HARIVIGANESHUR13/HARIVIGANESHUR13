@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HARIVIGANESHUR13
-- 👀 I’m interested in Hacking in legal manner
+- 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python to get master in it
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through mail's
